@@ -11,7 +11,7 @@ Build a full-stack meal rating app with Next.js, React, Drizzle ORM, and SQLite.
 Create a new Next.js project with the minimal template:
 
 ```bash
-npx create-next-app@latest --empty --yes campus cravings
+npx create-next-app@latest --empty --yes campus-cravings
 cd campus-cravings
 npm run dev
 ```
