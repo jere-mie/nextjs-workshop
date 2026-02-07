@@ -6,10 +6,11 @@ Created and presented by Jeremie Bornais
 
 ## 📚 Slides & Materials
 
-The presentation slides are available in the `docs` directory:
+The presentation slides and guides are available in the `docs` directory:
 
 - [View Slides (Markdown)](docs/slides.md)
 - [View Slides (PDF)](docs/slides.pdf)
+- [Complete Build Guide](docs/full_instructions.md) - Step-by-step instructions from project init to fully working app
 
 ## 🛠 Tech Stack
 
