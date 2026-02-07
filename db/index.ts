@@ -5,7 +5,8 @@ import { createClient } from "@libsql/client";
 config({ path: ".env" });
 
 const client = createClient({
-    url: process.env.DB_FILE_NAME!,
+    url: process.env.DB_URL!,
+    authToken: process.env.DB_AUTH_TOKEN,
 });
 
 export const db = drizzle(client);
